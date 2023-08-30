@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewPagerApp</string>
+
+    <string name="RED">RED</string>
+    <string name="GREEN">GREEN</string>
+    <string name="BLUE">BLUE</string>
+</resources>
